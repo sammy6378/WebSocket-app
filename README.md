@@ -30,6 +30,7 @@ Make sure you have the following installed on your machine:
 - **Node.js** (v14 or higher)
 - **npm** (Node Package Manager)
 
+   ```
 ### Installation
 
 1. **Clone the repository**:
