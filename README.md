@@ -4,7 +4,8 @@
 
 This project is a real-time score submission application built with React, Socket.io, and Node.js.
 Users can submit their names and scores, which will be transmitted in real-time to the server.
-The server then broadcasts the scores to all connected clients, allowing them to view an up-to-date scoreboard.
+The server then broadcasts the scores to all connected clients,
+allowing them to view an up-to-date scoreboard.
 
 ## Features
 
